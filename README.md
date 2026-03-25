@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=7aa2f7&height=200&section=header&text=MD%20Sabbir%20Hossain&fontSize=70&animation=fadeIn&fontAlignY=38&theme=tokyonight" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=MD+SABBIR+HOSSAIN;CSE+STUDENT+%7C+SOLDIER;CREATOR+OF+FAMTIES" alt="Typing SVG" />
+</p>
 
-  <h3>🚀 CSE Student | 🪖 Soldier | 🧬 Creator of FamTies</h3>
+<h3 align="center">🚀 CSE Student | 🪖 Soldier | 🧬 Creator of FamTies</h3>
 
-  <p align="center">
-    <strong>Bridging the discipline of the Bangladesh Air Force with the logic of Computer Science to build impactful, scalable digital experiences.</strong>
-  </p>
+<p align="center">
+  <strong>Bridging the discipline of the Bangladesh Air Force with the logic of Computer Science to build impactful, scalable digital experiences.</strong>
+</p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/hossain-mdb-sabbir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -83,6 +85,7 @@
 ---
 
 ### 🐍 Contribution Activity
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossainmdbsabbir&theme=tokyonight&hide_border=true&area=true" width="100%" />
